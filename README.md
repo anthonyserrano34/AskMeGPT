@@ -13,7 +13,7 @@ AskMeGpt is an automated twitter bot developped in Python that implements "chat-
 
 <h2>Get your OpenAI session token</h2>
 1. Go to https://beta.openai.com/signup and log in or sign up.<br>
-2. Follow the instructions to get an api_key.<br>
+2. Follow the instructions to get an <code>api_key</code>.<br>
 3. Save your <code>api_key</code> into <code>config.json</code>.
 
 <h2>Running</h2>
