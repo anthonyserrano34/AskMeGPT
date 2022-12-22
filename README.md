@@ -20,4 +20,5 @@ AskMeGpt is an automated twitter bot developped in Python that implements "chat-
 <code>python3 main.py</code> or <code>py main.py</code>
 
 # Result example
+![Animation](https://user-images.githubusercontent.com/75832820/209236799-dbd69f82-485a-494a-a77b-9a7b1d6cf05e.gif)
 ![image](https://user-images.githubusercontent.com/75832820/209193708-7df7441e-fca3-45a4-98ea-686100593727.png)
